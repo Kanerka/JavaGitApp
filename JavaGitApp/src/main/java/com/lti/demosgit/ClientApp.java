@@ -6,6 +6,8 @@ public class ClientApp {
 	{
 	Product p1 = new Product(101,"Lapi");
 	System.out.println(p1);
+	
+	System.out.println("hello welcome");
 	}
 
 }
